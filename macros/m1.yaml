@@ -1,0 +1,6 @@
+macros:
+  - name: subtract_range
+    inputs:
+      - a
+      - b
+    value: "{{a}} - {{b}}"

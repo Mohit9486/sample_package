@@ -1,0 +1,7 @@
+name: level0_package1
+schema_version: 12
+profile: test
+include_untimed: true
+
+macro_folders: 
+  - macros
